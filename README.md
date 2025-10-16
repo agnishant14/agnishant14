@@ -1,6 +1,6 @@
 # hey, i'm nishant 👋
 
-i love to build and write code do cp, break stuff, fix it again, and drink a lot of tea.
+i love to build and write code, do cp, break stuff, fix it again, and drink a lot of tea.
 ---
 
 ## 🧠 currently into
