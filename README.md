@@ -1,11 +1,12 @@
 # hey, i'm nishant 👋
 
-i love to build and write code, do cp, break stuff, fix it again, and drink a lot of tea.
+i love to build and write code, do cp, break stuff and fix it again.
 ---
 
 ## 🧠 currently into
 
-- upsolving **DSA** problems (and occasionally breaking my brain)
+- solving **DSA** problems
+- grinding **Codeforces**
 - building with **Next.js**, **Firebase**, and **Python**
 - exploring **AI/ML** and pretending to understand research papers
 
