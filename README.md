@@ -5,10 +5,10 @@ i love to build and write code, do cp, break stuff and fix it again.
 
 ## 🧠 currently into
 
-- solving **DSA** problems
-- grinding **Codeforces**
-- building with **Next.js**, **Firebase**, and **Python**
-- exploring **AI/ML** and pretending to understand research papers
+- solving **dsa** problems
+- grinding **codeforces**
+- building with **next.js**, **firebase**, and **python**
+- exploring **ai/ml** and pretending to understand research papers
 
 ---
 
